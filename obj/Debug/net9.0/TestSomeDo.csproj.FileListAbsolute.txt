@@ -1,0 +1,4 @@
+D:\work\TestSomeDo\obj\Debug\net9.0\TestSomeDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\TestSomeDo\obj\Debug\net9.0\TestSomeDo.AssemblyInfoInputs.cache
+D:\work\TestSomeDo\obj\Debug\net9.0\TestSomeDo.AssemblyInfo.cs
+D:\work\TestSomeDo\obj\Debug\net9.0\TestSomeDo.csproj.CoreCompileInputs.cache

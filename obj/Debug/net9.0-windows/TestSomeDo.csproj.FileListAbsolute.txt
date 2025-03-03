@@ -1,0 +1,14 @@
+D:\work\TestSomeDo\obj\Debug\net9.0-windows\TestSomeDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\TestSomeDo\obj\Debug\net9.0-windows\TestSomeDo.AssemblyInfoInputs.cache
+D:\work\TestSomeDo\obj\Debug\net9.0-windows\TestSomeDo.AssemblyInfo.cs
+D:\work\TestSomeDo\obj\Debug\net9.0-windows\TestSomeDo.csproj.CoreCompileInputs.cache
+D:\work\TestSomeDo\bin\Debug\net9.0-windows\TestSomeDo.exe
+D:\work\TestSomeDo\bin\Debug\net9.0-windows\TestSomeDo.deps.json
+D:\work\TestSomeDo\bin\Debug\net9.0-windows\TestSomeDo.runtimeconfig.json
+D:\work\TestSomeDo\bin\Debug\net9.0-windows\TestSomeDo.dll
+D:\work\TestSomeDo\bin\Debug\net9.0-windows\TestSomeDo.pdb
+D:\work\TestSomeDo\obj\Debug\net9.0-windows\TestSomeDo.dll
+D:\work\TestSomeDo\obj\Debug\net9.0-windows\refint\TestSomeDo.dll
+D:\work\TestSomeDo\obj\Debug\net9.0-windows\TestSomeDo.pdb
+D:\work\TestSomeDo\obj\Debug\net9.0-windows\TestSomeDo.genruntimeconfig.cache
+D:\work\TestSomeDo\obj\Debug\net9.0-windows\ref\TestSomeDo.dll
